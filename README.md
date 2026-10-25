@@ -1,2 +1,30 @@
-# L
-💡 About Me - 📈 **Focus:** Macroeconomics, Global Liquidity, Order Flow &amp; Market Structure. - 🤖 **AI &amp; Workflows:** Building AI-assisted research agents, personal knowledge systems, and content pipelines. - 🌐 **Web3 &amp; DeSoc:** Exploring decentralized architectures and virtual economies. - 
+这个私人资料库用于整理我的背景、目标、合作偏好和项目，
+作为我与 AI 协作时的参考。
+
+## 关于我
+我叫 Nicky，生活在匈牙利。
+我关注宏观经济、全球流动性、投资研究和思维模型，
+正在经营财经教育频道 The Long View。
+
+## 我的目标
+- 系统积累研究与作品，而不是让知识散落在聊天记录中。
+- 提高独立分析、提问和验证观点的能力。
+- 让零基础观众也能理解宏观经济。
+- 逐步建立可迁移的个人知识库与 AI 协作系统。
+
+## AI 与我合作的原则
+- 清楚、直接，不空泛赞美，不一味附和。
+- 区分已确认事实、合理推论与未知。
+- 主动指出证据不足、因果跳跃和反例。
+- 不替我编造经历、立场或个人观点。
+- 旧资料只代表当时情况，使用时注意日期。
+
+## 文件导航
+以下文件将逐步建立：
+- PROFILE.md：个人背景与长期目标
+- WORKING_RULES.md：AI 合作规则
+- THE_LONG_VIEW.md：频道定位与内容标准
+- NOW.md：当前项目与进度
+
+## 更新日期
+2026-10-25
